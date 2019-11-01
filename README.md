@@ -1,4 +1,7 @@
-# TestRepo2
+# TestRepo2 - Refactoring exercise. 
+
+## Background
+Imagine this is API for a user mgmt system where you want to connect 2 users together (e.g. like LinkedIn) 
 
 ## What you can expect?
 * The project should build successfully with VS2019 
