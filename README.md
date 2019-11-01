@@ -8,8 +8,8 @@ Imagine this is API for a user mgmt system where you want to connect 2 users tog
 * And the unit tests ConnectionsControllerTests should run and all passed. (need Resharper UnitTest runner)
 
 ## Tasks
-- Read the Post method in ConnectionsController
-- How would you go about refactor it? A normal code refactor not about adding Services, or MediatR layer that kind of refactor.
+- The method we're interested in is the Post() in ConnectionsController
+- How would you go about refactor it? Just a a normal code refactor not about adding services layers, or MediatR layer that kind of refactor.
 
 ## Unit Tests
 - You can use it to test your refactoring. 
